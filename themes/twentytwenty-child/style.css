@@ -9,3 +9,9 @@
 */
  
 @import url("../twentytwenty/style.css");
+
+@media (min-width: 700px) {
+.singular .entry-header {
+    padding:0px!important;
+}
+}
