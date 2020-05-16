@@ -5,7 +5,7 @@ Donate link: http://beapi.fr/donate/
 Tags: tag, posts, tags, admin, administration, tagging, navigation, terms, taxonomy
 Requires at least: 3.3
 Tested up to: 5.2
-Stable tag: 2.5.5
+Stable tag: 2.5.7
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -75,6 +75,12 @@ The Simple Tags can be installed in 3 easy steps:
 
 == Changelog ==
 
+* Version 2.5.6
+	* Github actions...
+* Version 2.5.6
+	* Change: remove support of CKEditor for WordPress plugin (not maintained)
+	* Bug: Try to fix compat with Classic Editor
+	* Bug: Related posts do not appear in the RSS feed.
 * Version 2.5.5
     * Bug: Improves the deactivation of the plugin when the PHP version is too old.
 * Version 2.5.4
